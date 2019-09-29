@@ -1,6 +1,6 @@
 {
     "name": "kirill-znamenskiy/yii2-canurl",
-    "version": "v0.0.1",
+    "version": "v1.1.1",
     "description": "Yii2 Canonical URL library",
     "keywords": ["kirill","znamenskiy", "yii2", "canurl", "canonical", "url"],
     "type": "yii2-extension",
