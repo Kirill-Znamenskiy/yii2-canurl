@@ -1,0 +1,16 @@
+{
+    "name": "kirill-znamenskiy/yii2-canurl",
+    "version": "v0.0.1",
+    "description": "Yii2 Canonical URL library",
+    "keywords": ["kirill","znamenskiy", "yii2", "canurl", "canonical", "url"],
+    "type": "yii2-extension",
+    "authors": [ { "name": "Kirill Znamenskiy", "email": "kirill@znamenskiy.me" } ],
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "kz\\yii2_canurl\\": "src/"
+        }
+    }
+}
