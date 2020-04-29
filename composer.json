@@ -4,7 +4,7 @@
     "description": "Yii2 Canonical URL library",
     "keywords": ["kirill","znamenskiy", "yii2", "canurl", "canonical", "url"],
     "type": "yii2-extension",
-    "authors": [ { "name": "Kirill Znamenskiy", "email": "kirill@znamenskiy.me" } ],
+    "authors": [ { "name": "Kirill Znamenskiy", "email": "kirill@znamenskiy.pw" } ],
     "require": {
         "yiisoft/yii2": "^2.0"
     },
