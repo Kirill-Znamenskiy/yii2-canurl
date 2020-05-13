@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kz\\yii2_canurl\\": "src/"
+            "KZ\\yii2_canurl\\": "src/"
         }
     }
 }
