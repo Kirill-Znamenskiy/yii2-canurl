@@ -1,5 +1,5 @@
 <?php
-namespace kz\yii2_canurl;
+namespace KZ\yii2_canurl;
 
 use yii\base\InvalidArgumentException;
 
